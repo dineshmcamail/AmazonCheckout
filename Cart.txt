@@ -1,0 +1,10 @@
+ProductId 1234
+Model F
+Color Green
+Size 10
+Qty 10
+ProductId 9790
+Model D
+Color Grey
+Size 5
+Qty 3
